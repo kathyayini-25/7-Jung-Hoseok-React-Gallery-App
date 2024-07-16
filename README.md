@@ -1,7 +1,6 @@
 # A Gallery of Jung Hoseok- member of BTS, developed using React.js
 An attractive webpage that conists of images arranged in grids. One can enlarge each image and navigate through them.
 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
