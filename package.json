@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/kathyayini-25/gallery-react.git",
   "name": "gallery",
   "version": "0.1.0",
   "private": false,
@@ -18,7 +17,6 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "clean": "gh-pages-clean",
     "start": "react-scripts start",
     "build": "react-scripts build",
